@@ -1,0 +1,88 @@
+*{
+    font-family: BRsonoma,Arial,Helvetica,sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.header{
+    box-shadow: 0px 3px 10px;
+
+}
+.nav-bar{
+display: flex;
+padding:0rem;
+justify-content:space-between;
+background-color:#238662;
+
+}
+
+.logo{
+width: 10rem;
+height: 10%;
+}
+.menu{
+    width:100%; 
+    float:left; 
+    text-align:center; 
+    display: inline-table;
+
+}
+.menu a{
+    text-decoration-line: none;
+}
+.nav-item{
+    padding-right: 5px;
+    display: inline-block;
+    list-style:none;
+margin-top: 20px;
+margin-left: 40px;
+}
+.nav-link{
+    font-family:BRsonoma,Arial,Helvetica,sans-serif;;
+    font-size:o.5rem;
+ color: white;
+}
+.botao1{
+    border-radius: 0.75rem;
+    color:#238662;
+    font-family:BRsonoma,Arial,Helvetica,sans-serif;
+    font-size: large;
+    margin-top:7px;
+    width: 15rem;
+    height: 40px;
+    border: white;
+ margin-right: 40px;
+ align-items: center;
+    }
+
+ .img{
+    width: 10%;
+ }
+
+table{
+  position: fixed;  
+}
+.botao2{
+    color: #EFF0E8;
+    font: 16PX Inter,Arial,Helvetica,sans-serif;
+    background: #426DFF;
+    margin: 48px 15px 0px;
+   padding: 6px 32px;
+   border: 50px;
+   border-radius: 15px;
+   width: 15rem;
+   height: 40px;
+   margin-top: 450px;
+   
+}
+
+.table{
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+    font-size: 20px;
+    position: fixed;
+    margin:-2px;
+    
+
+}
+
+
